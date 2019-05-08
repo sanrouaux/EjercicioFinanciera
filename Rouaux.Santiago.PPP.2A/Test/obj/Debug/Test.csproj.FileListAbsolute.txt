@@ -1,0 +1,10 @@
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Test\bin\Debug\Test.exe.config
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Test\bin\Debug\Test.exe
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Test\bin\Debug\Test.pdb
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Test\bin\Debug\Entidades.dll
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Test\bin\Debug\Entidades.pdb
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Test\obj\Debug\Test.exe
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Test\obj\Debug\Test.pdb

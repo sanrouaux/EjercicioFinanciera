@@ -1,0 +1,6 @@
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\sanro\source\repos\Rouaux.Santiago.PPP.2A\Entidades\obj\Debug\Entidades.pdb
